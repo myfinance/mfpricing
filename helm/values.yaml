@@ -11,7 +11,7 @@ image:
 
 mfpricing:
   mf_http_port_ext: 30027
-  mf_http_port: 7002
+  mf_http_port: 7004
   mf_name: mfpricing
 
   
